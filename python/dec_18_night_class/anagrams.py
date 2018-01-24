@@ -6,5 +6,3 @@ print(word_list)
 for i in word_list:
 
 
-
-

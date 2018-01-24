@@ -15,19 +15,13 @@ def string_methods():
     print(letters)
 
 
-
 # convert the string the user give me in lower string
 
     convert_string = input("Give me a name of your favorite sport! Please write this in Capital letters: ")
 
     print(convert_string.lower())
 
-
     play_again()
-
-
-
-
 
 
 def play_again():
@@ -39,5 +33,6 @@ def play_again():
         quit()
     else:
         print(" I did not understand that! ")
+
 
 string_methods()

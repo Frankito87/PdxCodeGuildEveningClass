@@ -1,10 +1,13 @@
-def knight(phrase_list):
+"""
+>>> knights()
+'Knights who say Ni!'
+"""
+
+def knights():
     """
     We want to show string
 
-
-    >>> Knight(['Knights', 'who', 'say', 'Ni'])
     'Knights who say Ni!'
 
     """
-   return phrase_list
+    return 'Knights who say Ni!'
