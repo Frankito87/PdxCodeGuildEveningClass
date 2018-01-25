@@ -1,3 +1,5 @@
+
+
 def palindrome():
     word = input("What word do you want to check: ")
     print('word: {}'.format(word))
@@ -10,4 +12,8 @@ def palindrome():
 
     else:
         return False
+
+
 print(palindrome())
+
+
