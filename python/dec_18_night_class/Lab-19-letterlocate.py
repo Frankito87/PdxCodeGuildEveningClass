@@ -1,5 +1,6 @@
 
-def letterlocate(string, letter):
+
+def letter_locate(string, letter):
 
     #string = list(input("Enter a phrase or word: "))
     #print(string)
@@ -21,5 +22,5 @@ def letterlocate(string, letter):
     print(new_list)
 
 
-letterlocate(list('apple'), 'p')
+letter_locate(list('apple'), 'p')
 
